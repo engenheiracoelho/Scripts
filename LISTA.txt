@@ -1,0 +1,10 @@
+GaCo01_01.txt
+SiPt14_01.txt
+SiPt15_01.txt
+GaCo03_01.txt
+GaPt16_01.txt
+GaPt16_02.txt
+GaCo04_02.txt
+GaCo05_01.txt
+JuCo07_01.txt
+GaCo06_01.txt
